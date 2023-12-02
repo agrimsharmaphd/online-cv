@@ -36,7 +36,7 @@ sidebar:
         - idiom: English
           level: Professional
 
-        - idiom: Hindi
+        - idiom: हिन्दी
           level: Native
 
     interests:
@@ -45,7 +45,7 @@ sidebar:
         - item: Nonlinear Optics
           link:
 
-        - item: Time-dependent GW
+        - item: Real-time GW method
           link:
 
         - item: Python
@@ -186,18 +186,15 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: 
     papers:
       - title:  "Modified Newtonian Gravity: Explaining observations of sub- and super-Chandrasekhar limiting mass white dwarfs."
-        link: "#"
+        link: "https://doi.org/10.48550/arXiv.2105.01702"
         authors: Agrim Sharma and Banibrata Mukhopadhyay
         conference: "Scientific Voyage 2 (No. 1) (2021) 20-28"
 
       - title: "Quantum MASALA: Quantum MAterialS Ab initio eLectronic-structure pAckage"
-        link: "#"
+        link: "https://doi.org/10.48550/arXiv.2308.07277"
         authors: Shri Hari Soundararaj, Agrim Sharma, and Manish Jain
         conference:  "arXiv:2308.07277 (2023)"
 
