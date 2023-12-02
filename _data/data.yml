@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Agrim Sharma
     tagline: Physicist
-    avatar: profile_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: agrimsharma[at]iisc.ac.in
@@ -206,7 +206,7 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title:  Modified Newtonian Gravity: Explaining observations of sub- and super-Chandrasekhar limiting mass white dwarfs. 
+      - title:  "Modified Newtonian Gravity: Explaining observations of sub- and super-Chandrasekhar limiting mass white dwarfs."
         link: "#"
         authors: Agrim Sharma and Banibrata Mukhopadhyay
         conference: "Scientific Voyage 2 (No. 1) (2021) 20-28"
